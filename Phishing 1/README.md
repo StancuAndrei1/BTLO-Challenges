@@ -1,1 +1,1 @@
-"Phishing Analysis 1" challange folder
+"Phishing Analysis 1" challenge folder
