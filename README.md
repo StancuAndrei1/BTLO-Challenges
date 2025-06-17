@@ -5,7 +5,7 @@ Aici voi pune challenge uri finalizate de pe platforma BlueTeamLabs.oline, fara 
 
 -Phishing Analysys 2 challenge
 
--Report challenge
+-The Report challenge
 
 -Meta challenge
 
